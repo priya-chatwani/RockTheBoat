@@ -1262,9 +1262,9 @@ input:-internal-autofill-selected {
 
 /* line 117, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_service.scss */
 .service_part .single_service_text:hover {
-  background-image: -moz-linear-gradient(-66deg, #7f00ff 0%, #e100ff 100%);
-  background-image: -webkit-linear-gradient(-66deg, #7f00ff 0%, #e100ff 100%);
-  background-image: -ms-linear-gradient(-66deg, #7f00ff 0%, #e100ff 100%);
+  background-image: -moz-linear-gradient(-66deg, #ff0000 0%, #ff5e00 100%);
+  background-image: -webkit-linear-gradient(-66deg, #ff0000 0%, #ff5e00 100%);
+  background-image: -ms-linear-gradient(-66deg, #ff0000 0%, #ff5e00 100%);
   border-bottom-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-right-radius: 0;
